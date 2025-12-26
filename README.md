@@ -21,7 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lingaraj08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-github-contribution-grid-snake-dark
 Thanks for visiting my profile! Let's build something amazing together. 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
