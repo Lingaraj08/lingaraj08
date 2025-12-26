@@ -1,5 +1,5 @@
-## Hi, I'm Lingaraj
-# Welcome to my GitHub!
+# Hi, I'm Lingaraj
+## Welcome to my GitHub!
 
 # 💫 About Me:
 🔭 I’m currently working on<br>CampusRent — a full-stack campus rental platform (FastAPI + Supabase backend, Next.js frontend) with payments, chat, live tracking.<br><br>👯 I’m looking to collaborate on<br>Open-source full-stack projects, SaaS tools, or anything that forces real-world system design (not toy apps).<br><br>🤝 I’m looking for help with<br>System design, scalable backend patterns, and writing cleaner production-grade code (reviews > tutorials).<br><br>🌱 I’m currently learning<br>DSA for interviews, advanced React/Next.js, API design, and automation with Python.<br><br>💬 Ask me about<br>Java, Python, SQL, FastAPI, Supabase, Next.js, building projects from scratch, or switching from Civil to CS.<br><br>⚡ Fun fact<br>Started in Civil Engineering, switched to CS, and now building software products — proof that discipline beats background.
